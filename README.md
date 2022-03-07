@@ -30,13 +30,13 @@ Using our knowledge of TensorFlow, we’ll design a neural network, or deep lear
 
 ### Step 4: Write a Report on the Neural Network Model
 
-For this part of the Challenge, you’ll write a report on the performance of the deep learning model you created for AlphabetSoup.
+For this part of the Challenge, we’ll write a report on the performance of the deep learning model we created for AlphabetSoup.
 
-The report should contain the following:
+The report will contain the following:
 
-1. **Overview** of the analysis: Explain the purpose of this analysis.
+1. **Overview** of the analysis: Explaining the purpose of this analysis.
 
-2. **Results**: Using bulleted lists and images to support your answers, address the following questions.
+2. **Results**: Addressing the below question
 
   * Data Preprocessing
     * What variable(s) are considered the target(s) for your model?
